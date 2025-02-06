@@ -25,13 +25,15 @@ Here are some technologies I'm experimenting with:
 
 ## 📢 Contact  
 If you want to reach out to me, you can find me at:  
-📧 **Email:** [YourEmail@example.com](hillairetvalentin16@gmail.com)  
-🔗 **LinkedIn:** [YourProfile](https://www.linkedin.com/in/emilio-valentin-12218025a/)  
+📧 **Email:** [hillairetvalentin16@gmail.com](hillairetvalentin16@gmail.com)  
+🔗 **LinkedIn:** [Emilio Valentin Lamadrid Hillairet](https://www.linkedin.com/in/emilio-valentin-12218025a/)  
 
 ---
 
 ✨ *This `README.md` will be updated as I learn more and upload new projects.* 🚀
----------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
 # 💻 Mi Portafolio de Desarrollo - DAM 🚀  
 
 ¡Hola! Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por la tecnología y el desarrollo de software.  
@@ -58,8 +60,8 @@ Aquí algunas de las tecnologías con las que estoy experimentando:
 
 ## 📢 Contacto  
 Si quieres ponerte en contacto conmigo, puedes encontrarme en:  
-📧 **Correo:** [TuEmail@example.com](hillairetvalentin16@gmail.com)  
-🔗 **LinkedIn:** [TuPerfil](https://www.linkedin.com/in/emilio-valentin-12218025a)  
+📧 **Correo:** [hillairetvalentin16@gmail.com](hillairetvalentin16@gmail.com)  
+🔗 **LinkedIn:** [Emilio Valentin Lamadrid Hillairet](https://www.linkedin.com/in/emilio-valentin-12218025a)  
 
 ---
 
