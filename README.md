@@ -1,67 +1,103 @@
-# Hola, soy Emilio Lamadrid
+<div align="center">
 
-**Desarrollador junior · Java y Spring Boot · Aplicaciones web con React**
+# Emilio Lamadrid
 
-Estoy orientando mi carrera al desarrollo de software, con especial interés en backend Java. Mi aprendizaje en Desarrollo de Aplicaciones Multiplataforma (DAM) se refleja aquí en proyectos personales y prácticas.
+### Desarrollador junior · Java & Spring Boot
 
-Busco una oportunidad como **desarrollador junior** para aportar, aprender en equipo y seguir mejorando. Actualmente trabajo con Java, Spring Boot, PostgreSQL y React en aplicaciones que resuelven necesidades reales, como organizar mi búsqueda de empleo.
+Backend Java, aplicaciones web con React y proyectos que resuelven necesidades reales.
 
-[LinkedIn](https://www.linkedin.com/in/emilio-valentin-12218025a/) · [Contacto por correo](mailto:hillairetvalentin16@gmail.com) · [Repositorios](https://github.com/vlamadridh?tab=repositories)
+<a href="https://www.linkedin.com/in/emilio-valentin-12218025a/"><img alt="Contactar por LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emilio_Lamadrid-0A66C2?style=for-the-badge" /></a>
+<a href="mailto:hillairetvalentin16@gmail.com"><img alt="Contactar por correo" src="https://img.shields.io/badge/Email-Hablemos-167D8D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/vlamadridh?tab=repositories"><img alt="Ver mis repositorios" src="https://img.shields.io/badge/GitHub-Proyectos-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+**En búsqueda de una oportunidad de desarrollo junior**
+
+</div>
+
+---
+
+## Sobre mí
+
+Mi aprendizaje en **Desarrollo de Aplicaciones Multiplataforma (DAM)** se refleja aquí en proyectos personales y prácticas. Actualmente me centro en **Java, Spring Boot, PostgreSQL y React**, con especial interés en el desarrollo backend.
+
+Busco un equipo donde aportar, aprender y seguir mejorando. Me importa entender lo que construyo: organizar el código, validar los datos, escribir pruebas y explicar las decisiones técnicas.
+
+## Stack principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,js,tailwind&perline=6" alt="Java, Spring, PostgreSQL, React, JavaScript y TailwindCSS" width="360" />
+</p>
+
+| Backend y datos | Frontend | Pruebas y herramientas |
+| --- | --- | --- |
+| Java · Spring Boot · Spring Data JPA | React · JavaScript · HTML · CSS | JUnit · MockMvc · Playwright |
+| API REST · SQL · PostgreSQL | Vite · TailwindCSS | Git · GitHub · Docker · Maven · npm |
+
+También he realizado prácticas con Android y explorado Python y C#. Mi foco actual está en consolidar el diseño de APIs y las pruebas automatizadas.
 
 ## Proyecto destacado
 
-### [JobTracker](https://github.com/vlamadridh/JobTracker)
-
-Una aplicación para gestionar candidaturas laborales desde un único panel. Nació de una hoja de cálculo que utilizaba para seguir ofertas y procesos de selección.
-
-**Java 21 · Spring Boot · Spring Data JPA · PostgreSQL · React · Vite · TailwindCSS**
-
-- Registro, edición y eliminación de candidaturas, con filtros y estadísticas.
-- Importación CSV y Excel con validación, detección básica de duplicados y errores por fila.
-- Interfaz responsive, modo oscuro y formularios accesibles por teclado.
-- API REST organizada por capas, DTOs y validación compartida.
-- Pruebas de integración y de navegador, con una demo local separada de los datos personales.
-
-La V1 se ha verificado con PostgreSQL y pruebas de escritorio y móvil. Es una aplicación de uso local, sin autenticación multiusuario ni despliegue público.
-
-[Código y guía de instalación](https://github.com/vlamadridh/JobTracker) · [Demo de cinco minutos](https://github.com/vlamadridh/JobTracker/blob/main/docs/demo.md) · [Decisiones técnicas](https://github.com/vlamadridh/JobTracker/blob/main/docs/decisiones-tecnicas.md) · [Pruebas y resultados](https://github.com/vlamadridh/JobTracker/blob/main/docs/verificacion-v1.md)
-
+<table>
+<tr>
+<td>
+<h3><a href="https://github.com/vlamadridh/JobTracker">JobTracker</a></h3>
+<p><strong>De una hoja de cálculo a una aplicación para organizar mi búsqueda de empleo.</strong></p>
+<p>Gestión de candidaturas con filtros, estadísticas e importación CSV/Excel. Incluye validación por fila, detección básica de duplicados, modo oscuro y una interfaz responsive.</p>
+<p>
+  <img alt="Java 21" src="https://img.shields.io/badge/Java-21-E76F00?style=flat-square" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+</p>
+<p>API REST por capas, DTOs y validación compartida. V1 verificada con PostgreSQL y pruebas de navegador en escritorio y móvil.</p>
+<p><strong>Demo local con datos ficticios.</strong> Sin autenticación multiusuario ni despliegue público.</p>
+<p>
+  <a href="https://github.com/vlamadridh/JobTracker"><strong>Ver código</strong></a> ·
+  <a href="https://github.com/vlamadridh/JobTracker/blob/main/docs/demo.md">Probar la demo</a> ·
+  <a href="https://github.com/vlamadridh/JobTracker/blob/main/docs/decisiones-tecnicas.md">Decisiones técnicas</a> ·
+  <a href="https://github.com/vlamadridh/JobTracker/blob/main/docs/verificacion-v1.md">Pruebas y resultados</a>
+</p>
 <details>
-<summary>Ver JobTracker con datos ficticios</summary>
-
-![Dashboard de JobTracker con candidaturas ficticias](https://raw.githubusercontent.com/vlamadridh/JobTracker/main/docs/capturas/dashboard-desktop.png)
-
+<summary><strong>Ver captura real del dashboard</strong></summary>
+<br />
+<a href="https://github.com/vlamadridh/JobTracker"><img src="https://raw.githubusercontent.com/vlamadridh/JobTracker/main/docs/capturas/dashboard-desktop.png" alt="Dashboard de JobTracker con ocho candidaturas ficticias, filtros y estados" width="850" /></a>
 </details>
-
-## Tecnologías que utilizo
-
-| Área | Tecnologías |
-| --- | --- |
-| Backend | Java, Spring Boot, Spring Data JPA, API REST |
-| Datos | SQL, PostgreSQL |
-| Frontend | JavaScript, React, HTML, CSS, TailwindCSS |
-| Pruebas | JUnit, MockMvc, Playwright |
-| Herramientas | Git, GitHub, Maven, npm, Docker |
-
-También he realizado prácticas con Android y explorado Python y C#. Mi foco actual está en consolidar Java, el diseño de APIs y las pruebas automatizadas.
+</td>
+</tr>
+</table>
 
 ## Más proyectos y prácticas
 
-Además de JobTracker, mantengo ejercicios y proyectos de aprendizaje:
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/vlamadridh/BaseX-Catalogo">BaseX-Catalogo</a></h3>
+<p>Proyecto de aprendizaje en Java con Maven.</p>
+<img alt="Java y Maven" src="https://img.shields.io/badge/Java-Maven-E76F00?style=flat-square&logo=apachemaven&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/vlamadridh/kahoot-java">kahoot-java</a></h3>
+<p>Proyecto con backend Java y carpeta frontend.</p>
+<img alt="Backend Java" src="https://img.shields.io/badge/Backend-Java-167D8D?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><strong><a href="https://github.com/vlamadridh/PT7_1_Room_BBDD">Persistencia con Room</a></strong> · Prácticas de bases de datos en Android.</p>
+</td>
+</tr>
+</table>
 
-- [BaseX-Catalogo](https://github.com/vlamadridh/BaseX-Catalogo): proyecto Java con Maven.
-- [kahoot-java](https://github.com/vlamadridh/kahoot-java): proyecto con backend Java y carpeta frontend.
-- [Prácticas de persistencia con Room](https://github.com/vlamadridh/PT7_1_Room_BBDD): aprendizaje de bases de datos en Android.
+## Siguiente paso
 
-## Cómo estoy mejorando
+Profundizar en **migraciones de base de datos, seguridad y despliegue**, manteniendo proyectos pequeños que pueda probar, utilizar y explicar.
 
-Me interesa entender y poder explicar lo que construyo: separar responsabilidades, validar datos antes de guardarlos, escribir pruebas para los flujos importantes y documentar tanto las decisiones como las limitaciones.
+---
 
-Mi siguiente paso es profundizar en migraciones de base de datos, seguridad y despliegue de aplicaciones.
+<div align="center">
 
-## Contacto
+**¿Buscas un desarrollador junior con foco en Java y Spring Boot?**
 
-Estoy abierto a oportunidades de desarrollo junior, especialmente con Java y Spring Boot.
+[Hablemos en LinkedIn](https://www.linkedin.com/in/emilio-valentin-12218025a/) · [hillairetvalentin16@gmail.com](mailto:hillairetvalentin16@gmail.com)
 
-- **LinkedIn:** [Emilio Valentin Lamadrid Hillairet](https://www.linkedin.com/in/emilio-valentin-12218025a/)
-- **Correo:** [hillairetvalentin16@gmail.com](mailto:hillairetvalentin16@gmail.com)
+</div>
